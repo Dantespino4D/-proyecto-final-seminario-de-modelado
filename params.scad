@@ -52,3 +52,7 @@ foot_sole_length_mm = 85;
 foot_sole_width_mm = 34;
 foot_sole_thickness_mm = 8;
 foot_sole_center_x_mm = 27.5;
+
+hip_pin_length_mm = hip_base_gap_mm + 2 * hip_base_plate_mm + 6;
+knee_pin_length_mm = knee_fork_gap_mm + 2 * knee_fork_plate_mm + 6;
+ankle_pin_length_mm = ankle_hub_width_mm + 2 * foot_plate_mm + 6;
